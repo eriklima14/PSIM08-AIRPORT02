@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Airport02</string>
+    <string name="title_arrivals">Chegadas</string>
+    <string name="label_flight">Voo:</string>
+    <string name="label_expected">Previsto:</string>
 </resources>
