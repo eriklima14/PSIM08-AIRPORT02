@@ -1,0 +1,24 @@
+Airport Schedule – Fase 1 | PSI M08 | Gabriel Dias & Erik Lima
+
+Completo:
+
+1. Modelo de Dados (Classe Flight java)
+   Ligação ao enunciado: "base de objetos que modelem a informação sobre os voos"
+
+2. Adapter Personalizado (Flight_Adapter java)
+   Ligação ao enunciado: "A lista deve ser preenchida usando um adapter personalizado"
+
+3. Layout dos Items da ListView (Flight_Item.xml)
+   Ligação ao enunciado: "fácil leitura, padding/margin, unidades corretas, textos traduzíveis"
+
+4. Layout da Activity Principal (activity_main.xml)
+   Ligação ao enunciado: "A app deve listar os voos que chegam ao aeroporto utilizando uma list view"
+
+5. Strings Traduzíveis
+   Nota: Textos como Voo: e Previsto: foram colocados em strings.xml.
+
+Por Fazer:
+
+1. Scroll e rotação
+   A ListView deve continuar a mostrar todos os voos mesmo após a rotação da tela.
+
