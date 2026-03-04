@@ -4,4 +4,15 @@
     <string name="title_arrivals">Chegadas</string>
     <string name="label_flight">Voo:</string>
     <string name="label_expected">Previsto:</string>
+
+    <string name="hint_origem">Origem</string>
+    <string name="hint_numero">Número do Voo</string>
+    <string name="hint_prevista">Hora Prevista</string>
+    <string name="hint_final">Hora Final</string>
+    <string name="hint_data">Data</string>
+    <string name="hint_companhia">Companhia</string>
+    <string name="hint_terminal">Terminal</string>
+
+    <string name="btn_adicionar">Adicionar</string>
+    <string name="btn_cancelar">Cancelar</string>
 </resources>
